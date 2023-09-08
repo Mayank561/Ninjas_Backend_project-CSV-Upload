@@ -12,7 +12,7 @@ dotenv.config();
 
 // Middleware
 app.use(express.static('./assets'));
-app.use(express.urlencoded());
+app.use(express.urlencoded({ extended: true }));
 app.use(expressLayout);
 // styles
 app.set('layout extractStyles', true);
