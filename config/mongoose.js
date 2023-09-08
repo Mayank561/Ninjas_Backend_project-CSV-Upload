@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 //  mongoose Connection
-mongoose.connect('mongodb://127.0.0.1:27017/backend_Csv_Upload', {
+mongoose.connect('mongodb://0.0.0.0:27017/backend_Csv_Upload', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
