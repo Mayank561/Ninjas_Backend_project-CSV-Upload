@@ -1,7 +1,9 @@
 const mongoose = require("mongoose");
+require('dotenv').config();
+
 
 //  mongoose Connection
-mongoose.connect('mongodb://0.0.0.0:27017/backend_Csv_Upload', {
+mongoose.connect(process.env.MONGOOSE_URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
