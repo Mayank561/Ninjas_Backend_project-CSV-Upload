@@ -1,6 +1,6 @@
 # CSV Upload Project
 
-![GitHub stars](https://csv-upload-2o3j.onrender.com/)
+![GitHub stars](https://img.shields.io/github/license/Mayank561/Coding_Ninjas_Backend_project-CSV-Upload)
 ![GitHub license](https://img.shields.io/github/license/Mayank561/Coding_Ninjas_Backend_project-CSV-Upload)
 
 ## Table of Contents
