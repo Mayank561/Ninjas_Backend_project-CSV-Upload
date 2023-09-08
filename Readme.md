@@ -1,7 +1,9 @@
 # CSV Upload Project
 
-![GitHub stars](https://img.shields.io/github/license/Mayank561/Coding_Ninjas_Backend_project-CSV-Upload)
-![GitHub license](https://img.shields.io/github/license/Mayank561/Coding_Ninjas_Backend_project-CSV-Upload)
+[![GitHub stars](https://img.shields.io/github/stars/Mayank561/Coding_Ninjas_Backend_project-CSV-Upload)](https://github.com/Mayank561/Coding_Ninjas_Backend_project-CSV-Upload/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Mayank561/Coding_Ninjas_Backend_project-CSV-Upload)](https://github.com/Mayank561/Coding_Ninjas_Backend_project-CSV-Upload/blob/master/LICENSE)
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -55,3 +57,6 @@ We welcome contributions from the community. If you'd like to contribute, please
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and test thoroughly.
 4. Create a pull request with a clear description of your changes.
+
+5. Open your web browser and access the hosted application at [https://csv-upload-2o3j.onrender.com/](https://csv-upload-2o3j.onrender.com/).
+
