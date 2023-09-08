@@ -8,7 +8,7 @@ module.exports.homePage = async (req, res) => {
     try {
         let files = await csvFile.find({});
         res.render('home', {
-            title: 'csv Upload | Home',
+            title: 'CSV Upload | Home',
             files: files
         });
     } catch (err) {
